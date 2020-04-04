@@ -55,15 +55,15 @@ Les conseils suivants vont vous aider à devenir un-e expert-e de la vie en soli
 
 ----
 
-## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/Objectif-Zero-Dechet-2018.svg)](https://github.com/Naereen/Objectif-Zero-Dechet-2018/blob/master/LICENSE)
+## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/rennes-en-resilience.svg)](https://github.com/Naereen/rennes-en-resilience/blob/master/LICENSE)
 Ce dépôt git et tous les fichiers contenus sont publiés librement sous les termes de la [Licence MIT](https://lbesson.mit-license.org/) (voir le fichier [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2018.
 
-[![Website perso.crans.org/besson/cuisine](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://perso.crans.org/besson/zero-dechet/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/Objectif-Zero-Dechet-2018/graphs/commit-activity)
+[![Website perso.crans.org/besson/rennes-en-resilience](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://perso.crans.org/besson/rennes-en-resilience/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/rennes-en-resilience/graphs/commit-activity)
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
-[![GitHub licence](https://img.shields.io/github/license/Naereen/Objectif-Zero-Dechet-2018.svg)](https://github.com/Naereen/Objectif-Zero-Dechet-2018/blob/master/LICENSE)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/Objectif-Zero-Dechet-2018/README.md?pixel)](https://GitHub.com/Naereen/Objectif-Zero-Dechet-2018/)
+[![GitHub licence](https://img.shields.io/github/license/Naereen/rennes-en-resilience.svg)](https://github.com/Naereen/rennes-en-resilience/blob/master/LICENSE)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/rennes-en-resilience/README.md?pixel)](https://GitHub.com/Naereen/rennes-en-resilience/)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
