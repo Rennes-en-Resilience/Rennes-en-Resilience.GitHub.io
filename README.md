@@ -8,17 +8,20 @@ La phase A commencera bientôt, pour traiter la première période de confinemen
 
 ## Contactez l'équipe derrière ce projet
 ### Par email
-- `Rennes.en.Resilience` à `Laposte.net`
-- `Rennes.en.Resilience` à `ProtonMail.com`
+- Mails *chiffrés* : `Rennes.en.Resilience` à `ProtonMail.com` (créer un compte est gratuit) ;
+- Mails classiques : `Rennes.en.Resilience` à `Laposte.net`.
 
 ### Par téléphone (bientôt)
-- `+33 (0)7 49 05 93 67`
+- Dans quelques jours, le numéro `+33 (0)7 4neuf 0cinq 9trois 6sept` sera disponible 24h/24 !
 
 ### Par SnapChat
-TODO
+- TODO
 
 ### Par GitHub
-- En ouvrant un ticket GitHub sur [ce formulaire](https://GitHub.com/RennesEnResilience/contact) !
+> Attention ce médium de communication ne peut *PAS ÊTRE* pas anonyme !
+
+- En ouvrant un ticket GitHub sur [ce formulaire](https://GitHub.com/RennesEnResilience/Contactez-nous) !
+- Also [in English at this form](https://GitHub.com/RennesEnResilience/Contact-us) !
 
 ### Par Instagram
 TODO
@@ -28,8 +31,7 @@ TODO
 ## Plan de travail ! TODO
 
 - Take names on SnapChat, Instagram, Twitter, GitHub etc
-- Clean URL is it https://rennes-en-resilience.home.blog/ or https://rennesenresilience.home.blog/
-- Clean URL is it https://rennes-en-resilience.wordpress.com/ or https://rennesenresilience.wordpress.com/
+- [L'adresse du blogue est](https://RennesEnResilience.home.blog/)
 
 ---
 
@@ -45,7 +47,7 @@ TODO
 ##### Sur la lutte à Rennes et ailleurs
 
 ### Articles
-- https://duckduckgo.com/?q=resilience+face+%C3%A0+l%27effondrement&t=canonical
+> [En trouver d'autres sur votre moteur de recherche favori !](https://duckduckgo.com/?q=resilience+face+%C3%A0+l%27effondrement&t=canonical)
 
 - https://www.linternaute.fr/dictionnaire/fr/definition/resilience/
 - https://www.aufeminin.com/therapies/resilience-s637867.html
@@ -66,23 +68,66 @@ Les conseils suivants vont vous aider à devenir un-e expert-e de la vie en soli
 ### Autres blogs
 - Voir la [page dédiée](blogs-parlant-de-resilience) !
 - [La Révolution des tortues](http://www.larevolutiondestortues.fr/), notamment [cet article qui m'a fait beaucoup de bien](http://www.larevolutiondestortues.fr/petits-gestes-surresponsabilisation-individuelle), pour éviter de se prendre (trop) la tête sur les petits gestes !
+
+1. *28 jours plus tard*,
+2. *Into the Wild*,
+3. *Into the Wild*,
+4. *Into the Wild*,
+5. *Into the Wild*,
+6. *Into the Wild*,
+7. *Into the Wild*,
+8. *Into the Wild*,
+9. *Into the Wild*,
+10. *Into the Wild*.
 - TODO
 
 ### Livres
-- Désobéissance civile de Thoreau
-- Into the Wild
+0. TODO à lire ! [La Désobéissance Civile](https://fr.wikipedia.org/wiki/La_D%C3%A9sob%C3%A9issance_civile) de Thoreau
+1. *28 jours plus tard*,
+2. *Into the Wild*,
+3. *Into the Wild*,
+4. *Into the Wild*,
+5. *Into the Wild*,
+6. *Into the Wild*,
+7. *Into the Wild*,
+8. *Into the Wild*,
+9. *Into the Wild*,
+10. *Into the Wild*.
 - TODO
 
 ### Films
-- Désobéissance civile de Thoreau
-- Into the Wild
+1. [*28 jours plus tard*](https://fr.wikipedia.org/wiki/28_Jours_plus_tard),
+2. [*Into the Wild*](https://fr.wikipedia.org/wiki/Into_the_Wild),
+3. *Into the Wild*,
+4. *Into the Wild*,
+5. *Into the Wild*,
+6. *Into the Wild*,
+7. *Into the Wild*,
+8. *Into the Wild*,
+9. *Into the Wild*,
+10. *Into the Wild*.
 - TODO
+
+### Séries
+1. *28 jours plus tard*,
+2. *Into the Wild*,
+3. *Into the Wild*,
+4. *Into the Wild*,
+5. *Into the Wild*,
+6. *Into the Wild*,
+7. *Into the Wild*,
+8. *Into the Wild*,
+9. *Into the Wild*,
+10. *Into the Wild*.
+- TODO
+
+> Voir aussi [ce top 10](perso.crans.org/besson/top10.fr.html#cinema) de films et séries préférées !
 
 ----
 
 ## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/rennes-en-resilience.svg)](https://github.com/Naereen/rennes-en-resilience/blob/master/LICENSE)
 Ce dépôt git et tous les fichiers contenus sont publiés librement sous les termes de la [Licence MIT](https://lbesson.mit-license.org/) (voir le fichier [LICENSE](LICENSE)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2018.
+© [Lilian Besson](https://GitHub.com/Naereen) et d'autres collaborateurs et collaboratrices, 2020.
 
 [![Website perso.crans.org/besson/rennes-en-resilience](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://perso.crans.org/besson/rennes-en-resilience/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/rennes-en-resilience/graphs/commit-activity)
