@@ -1,6 +1,31 @@
-# « Rennes en Résilience » : lancement du projet (04-04-2020)
+# [« Rennes en Résilience »](https://rennesenresilience.home.blog/) : lancement du projet (04-04-2020)
 
-## TODO
+Rennes en Résilience (ReR) est un blogue, aussi présent sur les réseaux sociaux (Twitter etc), parlant de la vie à Rennes durant le confinement.
+
+> *Rennes en Résilience est actuellement en phase alpha, en test et en rédaction.*
+
+La phase A commencera bientôt, pour traiter la première période de confinement en France (mars – avril 2020).
+
+## Contactez l'équipe derrière ce projet
+### Par email
+- `Rennes.en.Resilience` à `Laposte.net`
+- `Rennes.en.Resilience` à `ProtonMail.com`
+
+### Par téléphone (bientôt)
+- `+33 (0)7 49 05 93 67`
+
+### Par SnapChat
+TODO
+
+### Par GitHub
+- En ouvrant un ticket GitHub sur [ce formulaire](https://GitHub.com/RennesEnResilience/contact) !
+
+### Par Instagram
+TODO
+
+---
+
+## Plan de travail ! TODO
 
 - Take names on SnapChat, Instagram, Twitter, GitHub etc
 - Clean URL is it https://rennes-en-resilience.home.blog/ or https://rennesenresilience.home.blog/
