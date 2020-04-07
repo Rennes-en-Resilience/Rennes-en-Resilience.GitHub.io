@@ -2,7 +2,7 @@
 
 Rennes en Résilience (ReR) est un blogue, aussi présent sur les réseaux sociaux (Twitter etc), parlant de la vie à Rennes durant le confinement.
 
-> *Rennes en Résilience est actuellement en phase alpha, en test et en rédaction.*
+> *Rennes en Résilience est actuellement en phase *beta*, en test et en rédaction.*
 
 La phase A commencera bientôt, pour traiter la première période de confinement en France (mars – avril 2020).
 
@@ -14,24 +14,28 @@ La phase A commencera bientôt, pour traiter la première période de confinemen
 ### Par téléphone (bientôt)
 - Dans quelques jours, le numéro `+33 (0)7 4neuf 0cinq 9trois 6sept` sera disponible 24h/24 !
 
-### Par SnapChat
-- TODO
-
 ### Par GitHub
 > Attention ce médium de communication ne peut *PAS ÊTRE* pas anonyme !
 
 - En ouvrant un ticket GitHub sur [ce formulaire](https://GitHub.com/RennesEnResilience/Contactez-nous) !
 - Also [in English at this form](https://GitHub.com/RennesEnResilience/Contact-us) !
 
+### Par SnapChat
+- TODO
+
 ### Par Instagram
+TODO
+
+### Par Twitter
 TODO
 
 ---
 
 ## Plan de travail ! TODO
 
-- Take names on SnapChat, Instagram, Twitter, GitHub etc
-- [L'adresse du blogue est](https://RennesEnResilience.home.blog/)
+1. wait for phone number
+2. take names on SnapChat, Instagram, Twitter, GitHub etc
+3. [L'adresse du blogue est](https://RennesEnResilience.home.blog/) : ajouter du contenu chaque jour !
 
 ---
 
@@ -43,8 +47,13 @@ TODO
 
 ### Livres
 ##### Sur la désobéissance civile
+- Des suggestions ? [Ce formulaire](https://GitHub.com/RennesEnResilience/Contactez-nous) est là pour ça ! Merci d'avance !
+
 ##### Sur la résilience écologique
+- Des suggestions ? [Ce formulaire](https://GitHub.com/RennesEnResilience/Contactez-nous) est là pour ça ! Merci d'avance !
+
 ##### Sur la lutte à Rennes et ailleurs
+- Des suggestions ? [Ce formulaire](https://GitHub.com/RennesEnResilience/Contactez-nous) est là pour ça ! Merci d'avance !
 
 ### Articles
 > [En trouver d'autres sur votre moteur de recherche favori !](https://duckduckgo.com/?q=resilience+face+%C3%A0+l%27effondrement&t=canonical)
@@ -57,84 +66,15 @@ TODO
 
 ---
 
-## Listes de conseils
-
-Les conseils suivants vont vous aider à devenir un-e expert-e de la vie en solitaire !
-
-### Applications
-- Voir la [page dédiée](applications-en-confinement), ainsi que [celle de mon site principal](https://perso.crans.org/besson/apk.fr.html) !
-- TODO
-
-### Autres blogs
-- Voir la [page dédiée](blogs-parlant-de-resilience) !
-- [La Révolution des tortues](http://www.larevolutiondestortues.fr/), notamment [cet article qui m'a fait beaucoup de bien](http://www.larevolutiondestortues.fr/petits-gestes-surresponsabilisation-individuelle), pour éviter de se prendre (trop) la tête sur les petits gestes !
-
-1. *28 jours plus tard*,
-2. *Into the Wild*,
-3. *Into the Wild*,
-4. *Into the Wild*,
-5. *Into the Wild*,
-6. *Into the Wild*,
-7. *Into the Wild*,
-8. *Into the Wild*,
-9. *Into the Wild*,
-10. *Into the Wild*.
-- TODO
-
-### Livres
-0. TODO à lire ! [La Désobéissance Civile](https://fr.wikipedia.org/wiki/La_D%C3%A9sob%C3%A9issance_civile) de Thoreau
-1. *28 jours plus tard*,
-2. *Into the Wild*,
-3. *Into the Wild*,
-4. *Into the Wild*,
-5. *Into the Wild*,
-6. *Into the Wild*,
-7. *Into the Wild*,
-8. *Into the Wild*,
-9. *Into the Wild*,
-10. *Into the Wild*.
-- TODO
-
-### Films
-1. [*28 jours plus tard*](https://fr.wikipedia.org/wiki/28_Jours_plus_tard),
-2. [*Into the Wild*](https://fr.wikipedia.org/wiki/Into_the_Wild),
-3. *Into the Wild*,
-4. *Into the Wild*,
-5. *Into the Wild*,
-6. *Into the Wild*,
-7. *Into the Wild*,
-8. *Into the Wild*,
-9. *Into the Wild*,
-10. *Into the Wild*.
-- TODO
-
-### Séries
-1. *28 jours plus tard*,
-2. *Into the Wild*,
-3. *Into the Wild*,
-4. *Into the Wild*,
-5. *Into the Wild*,
-6. *Into the Wild*,
-7. *Into the Wild*,
-8. *Into the Wild*,
-9. *Into the Wild*,
-10. *Into the Wild*.
-- TODO
-
-> Voir aussi [ce top 10](perso.crans.org/besson/top10.fr.html#cinema) de films et séries préférées !
-
-----
-
-## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Naereen/rennes-en-resilience.svg)](https://github.com/Naereen/rennes-en-resilience/blob/master/LICENSE)
+## :scroll: Licence ? [![GitHub licence](https://img.shields.io/github/license/Rennes-en-Resilience/a-propos.svg)](https://github.com/Rennes-en-Resilience/a-propos/blob/master/LICENSE)
 Ce dépôt git et tous les fichiers contenus sont publiés librement sous les termes de la [Licence MIT](https://lbesson.mit-license.org/) (voir le fichier [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen) et d'autres collaborateurs et collaboratrices, 2020.
 
 [![Website perso.crans.org/besson/rennes-en-resilience](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://perso.crans.org/besson/rennes-en-resilience/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/rennes-en-resilience/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Rennes-en-Resilience/a-propos/graphs/commit-activity)
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
-[![GitHub licence](https://img.shields.io/github/license/Naereen/rennes-en-resilience.svg)](https://github.com/Naereen/rennes-en-resilience/blob/master/LICENSE)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/rennes-en-resilience/README.md?pixel)](https://GitHub.com/Naereen/rennes-en-resilience/)
-
+[![GitHub licence](https://img.shields.io/github/license/Rennes-en-Resilience/a-propos.svg)](https://github.com/Rennes-en-Resilience/a-propos/blob/master/LICENSE)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Rennes-en-Resilience/a-propos/README.md?pixel)](https://GitHub.com/Rennes-en-Resilience/a-propos/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
