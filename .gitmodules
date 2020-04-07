@@ -1,0 +1,6 @@
+[submodule "sub-gits/Contact-us.git"]
+	path = sub-gits/Contact-us.git
+	url = git@github.com:Rennes-en-Resilience/Contact-us.git
+[submodule "sub-gits/Contactez-nous.git"]
+	path = sub-gits/Contactez-nous.git
+	url = git@github.com:Rennes-en-Resilience/Contactez-nous.git
