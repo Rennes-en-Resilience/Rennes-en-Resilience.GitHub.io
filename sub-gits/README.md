@@ -1,5 +1,7 @@
 # List of other git repositories for the [« Rennes en Résilience »](https://github.com/Rennes-en-Resilience/) project
 
+![](logo-ReR.git/Rennes_en_Resilience_logo_1024.png)
+
 [![Ask Us Anything !](https://img.shields.io/badge/Ask%20us-anything-1abc9c.svg)](https://GitHub.com/Rennes-en-Resilience/Contact-us)
 
 ### Do you have a question (*in English*) / Avez-vous une question (*en français*) ?

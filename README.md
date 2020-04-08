@@ -2,7 +2,9 @@
 
 Rennes en Résilience (ReR) est un blogue, aussi présent sur les réseaux sociaux (Twitter etc), parlant de la vie à Rennes durant le confinement.
 
-> *Rennes en Résilience est actuellement en phase *beta*, en test et en rédaction.*
+![](sub-gits/logo-ReR.git/Rennes_en_Resilience_logo_1024.png)
+
+> *Rennes en Résilience est actuellement en phase bêta, en test et en rédaction.*
 
 La phase A commencera bientôt, pour traiter la première période de confinement en France (mars – avril 2020).
 
