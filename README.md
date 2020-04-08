@@ -2,7 +2,7 @@
 
 Rennes en Résilience (ReR) est un blogue, aussi présent sur les réseaux sociaux (Twitter etc), parlant de la vie à Rennes durant le confinement.
 
-![](sub-gits/logo-ReR.git/Rennes_en_Resilience_logo_1024.png)
+<img align="right" width="45%" src="Rennes_en_Resilience_logo_1024.png" alt="Logo, Rennes_en_Resilience_logo_1024.png">
 
 > *Rennes en Résilience est actuellement en phase bêta, en test et en rédaction.*
 
