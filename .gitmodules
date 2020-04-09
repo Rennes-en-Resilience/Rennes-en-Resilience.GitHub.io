@@ -4,3 +4,9 @@
 [submodule "sub-gits/Contactez-nous.git"]
 	path = sub-gits/Contactez-nous.git
 	url = git@github.com:Rennes-en-Resilience/Contactez-nous.git
+[submodule "sub-gits/Cartes-des-commerces-resilients.git"]
+	path = sub-gits/Cartes-des-commerces-resilients.git
+	url = git@github.com:Rennes-en-Resilience/Cartes-des-commerces-resilients.git
+[submodule "sub-gits/Logos-pour-Rennes-en-R-silience-.git"]
+	path = sub-gits/Logos-pour-Rennes-en-R-silience-.git
+	url = git@github.com:Rennes-en-Resilience/Logos-pour-Rennes-en-R-silience-.git
