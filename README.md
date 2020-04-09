@@ -6,7 +6,7 @@ Rennes en Résilience (ReR) est un blogue, aussi présent sur les réseaux socia
 
 > *Rennes en Résilience est actuellement en phase bêta, en test et en rédaction.*
 
-La phase A commencera bientôt, pour traiter la première période de confinement en France (mars – avril 2020).
+La phase A commencera bientôt (mi-avril), pour traiter la première période de confinement en France (mars – avril 2020).
 
 ## Contactez l'équipe derrière ce projet
 ### Par email
