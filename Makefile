@@ -5,6 +5,5 @@ all:	send
 
 send:	send_zamok
 send_zamok:
-	#CP --exclude=.git ./ ${Szam}pandemie-coronavirus/
 	CP --exclude=.git ./ ${Szam}Rennes-en-Resilience/
 	# CP --exclude=.git ./ ${Szam}Rennes-en-Résilience/
